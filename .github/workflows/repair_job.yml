@@ -1,6 +1,12 @@
 name: Broken Press Schematic
 
-on: pull_requets
+on: 
+  push: 
+    branches: 
+      - main 
+      pull_request: 
+    branches: 
+      - main
 
 jobs:
   repair-check:

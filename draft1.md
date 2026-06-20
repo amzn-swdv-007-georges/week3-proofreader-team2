@@ -1,1 +1,1 @@
-This morning I tranvelled to the universal press headqueters by train. I arriced a little early, bpivht a cofee near the station, and checked the day's editorial schedule before walking into the building
+This morning I travelled to the Universal Press headquarters by train. I arrived a little early, bought a coffee near the station, and checked the day's editorial schedule before walking into the building.

@@ -4,4 +4,4 @@ Editors reviewed headlines, checked the schedule,
 and coordinated the publication plan for the day.
 The production floor was calm at first, but 
 the pace increased quickly once updates 
-began to arrive from reporters across the city. 
+began to arrive from reporters across the city.

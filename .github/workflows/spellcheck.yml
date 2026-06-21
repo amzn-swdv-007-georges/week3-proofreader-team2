@@ -19,5 +19,5 @@ jobs:
         with:
           files: '**/*.md'
           incremental_files_only: false
-          config: .cspell.json
+          config: .cspell.config.json
 

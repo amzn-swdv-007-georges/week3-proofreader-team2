@@ -19,5 +19,5 @@ jobs:
         with:
           files: '**/*.md'
           incremental_files_only: false
-          config: '{"words": ["markdown", "github", "workflow"]}'
+          config: .cspell.json
 
